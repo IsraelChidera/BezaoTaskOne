@@ -1,0 +1,8 @@
+C:\Users\ISREAL\source\repos\Exercise4\Exercise2\bin\Debug\Exercise2.exe.config
+C:\Users\ISREAL\source\repos\Exercise4\Exercise2\bin\Debug\Exercise2.exe
+C:\Users\ISREAL\source\repos\Exercise4\Exercise2\bin\Debug\Exercise2.pdb
+C:\Users\ISREAL\source\repos\Exercise4\Exercise2\obj\Debug\Exercise2.csproj.AssemblyReference.cache
+C:\Users\ISREAL\source\repos\Exercise4\Exercise2\obj\Debug\Exercise2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ISREAL\source\repos\Exercise4\Exercise2\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\ISREAL\source\repos\Exercise4\Exercise2\obj\Debug\Exercise2.exe
+C:\Users\ISREAL\source\repos\Exercise4\Exercise2\obj\Debug\Exercise2.pdb
